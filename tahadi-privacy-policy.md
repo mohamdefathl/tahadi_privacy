@@ -8,8 +8,9 @@ If you choose to use our Service, then you agree to the collection and use of in
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
 
 ### Information Collection and Use  
-For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
-The app does use third party services that may collect information used to identify you. 
+For an enhanced experience with our application and services, we may require you to provide us with certain personally identifiable information, including but not limited to the player's name, player number for communication, player's age for match suitability, optional team icon (if registering as a team on the tournament), and player image for game plans and bset players section (best goalkeeper,Best scorer,etc..) and player images handled outside of the app(the user send his image to the admin if he need , and if he dont , we use defaul element).The information we request will be retained by us and used as described in this privacy policy. The app may also use third-party services that collect information used to identify you.
+
+Our app uses Firebase for its backend services. Firebase may collect, store, and process certain personally identifiable information to provide its services. Please refer to Firebase's privacy policy for more information on how your data is handled.
 
 ### Cookies  
 Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
@@ -31,8 +32,8 @@ We may employ third-party companies and individuals due to the following reasons
 
 We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.  
 
-### Security  
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over  the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.  
+### Data Security
+We take all necessary measures to protect the security of the information we collect. This includes using industry-standard encryption methods and storing data on secure servers.
 
 ### Children’s Privacy  
 This Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you  are  a  parent  or  guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.  
