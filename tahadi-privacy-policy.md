@@ -11,8 +11,8 @@ For an enhanced experience with our application and services, we may require you
 
 Our app uses Firebase for its backend services. Firebase may collect, store, and process certain personally identifiable information to provide its services. Please refer to Firebase's privacy policy for more information on how your data is handled.
 
-players and teams have the right to delete or update their data through the admin. using this link 
-[https://sharafiapp-5f9c2.web.app/]
+players and teams have the right to delete or update their data through the admin. using this (link)[https://sharafiapp-5f9c2.web.app/]
+
 
 ### Our commitments
 We will do our best to protect your information from unauthorized access, use or disclosure.
