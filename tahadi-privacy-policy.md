@@ -12,6 +12,13 @@ For an enhanced experience with our application and services, we may require you
 
 Our app uses Firebase for its backend services. Firebase may collect, store, and process certain personally identifiable information to provide its services. Please refer to Firebase's privacy policy for more information on how your data is handled.
 
+We may send player names, images, or team names and logos to Instagram and Facebook after asking for permission to feature top performers from a match, winning teams, and best players or teams. Only pictures and names are sent, and no other personal information is transmitted without consent. Users have the right to control and deny this, and they have the right to determine how their images are shared on Instagram and facebook.
+
+### Our commitments
+We will do our best to protect your information from unauthorized access, use or disclosure.
+We will not use or share your information with anyone except as described in this Privacy Policy.
+We will make every effort to protect your information from unauthorized access, use, or disclosure.
+
 ### Cookies  
 Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
 
