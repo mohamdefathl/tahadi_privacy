@@ -11,9 +11,8 @@ For an enhanced experience with our application and services, we may require you
 
 Our app uses Firebase for its backend services. Firebase may collect, store, and process certain personally identifiable information to provide its services. Please refer to Firebase's privacy policy for more information on how your data is handled.
 
-We may send player names, images, or team names and logos to Instagram and Facebook after asking for permission to feature top performers from a match, winning teams, and best players or teams. Only pictures and names are sent, and no other personal information is transmitted without consent. Users have the right to control and deny this, and they have the right to determine how their images are shared on Instagram and facebook.
-
-players and teams have the right to ask the admin to delete or update their data.
+players and teams have the right to delete or update their data through the admin. using this link 
+[https://sharafiapp-5f9c2.web.app/]
 
 ### Our commitments
 We will do our best to protect your information from unauthorized access, use or disclosure.
