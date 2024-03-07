@@ -17,6 +17,7 @@ players and teams have the right to delete or update their data through the admi
 We will do our best to protect your information from unauthorized access, use or disclosure.
 We will not use or share your information with anyone except as described in this Privacy Policy.
 We will make every effort to protect your information from unauthorized access, use, or disclosure.
+We will make the logo for the teams suitable for display.
 
 ### Cookies  
 Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
