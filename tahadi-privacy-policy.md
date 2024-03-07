@@ -11,6 +11,8 @@ For an enhanced experience with our application and services, we may require you
 
 Our app uses Firebase for its backend services. Firebase may collect, store, and process certain personally identifiable information to provide its services. Please refer to Firebase's privacy policy for more information on how your data is handled.
 
+Users (teams and players) are unable to create an account in our app. They simply enter their data for the match or tournament. If the match is deleted, their data will be deleted as well. The same applies to the tournament.
+
 players and teams have the right to delete or update their data through the admin. using this [link](https://sharafiapp-5f9c2.web.app/).
 
 ### Our commitments
