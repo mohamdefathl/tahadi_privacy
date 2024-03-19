@@ -9,7 +9,8 @@ If you choose to use our Service, then you agree to the collection and use of in
 ### Information Collection and Use  
 For an enhanced experience with our application and services, we may require you to provide us with certain personally identifiable information, including but not limited to the player's name, player number for communication, player's age for match suitability, optional team icon (if registering as a team on the tournament), and player image for game plans and bset players section (best goalkeeper,Best scorer,etc..) and player images handled outside of the app(the user send his image to the admin if he need , and if he dont , we use defaul element).The information we request will be retained by us and used as described in this privacy policy. The app may also use third-party services that collect information used to identify you.
 
-Our app uses Firebase for its backend services. Firebase may collect, store, and process certain personally identifiable information to provide its services. Please refer to Firebase's privacy policy for more information on how your data is handled.
+Our app is built using Flutter, a third-party framework. It uses Firebase, another third-party library, for its backend services. Firebase may collect, store, and process certain personally identifiable information to provide its services. Please refer to Firebase's privacy policy for more information on how your data is handled.
+firebase privacy [link](https://firebase.google.com/support/privacy)
 
 Users (teams and players) are unable to create an account in our app. They simply enter their data for the match or tournament. If the match is deleted, their data will be deleted as well. The same applies to the tournament.
 
